@@ -1,0 +1,5 @@
+{
+  "name": "Bharat BreedBot",
+  "description": "An expert AI assistant for Indian Cattle and Buffalo breeds, powered by Gemini and user-provided documentation.",
+  "requestFramePermissions": []
+}
