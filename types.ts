@@ -19,7 +19,7 @@ export interface BreedBotState {
 export interface BreedData {
   id: string;
   name: string;
-  category: 'Cattle' | 'Buffalo';
+  category: 'Cattle' | 'Buffalo' | 'Dog' | 'Cat';
   origin: string;
   utility: string;
   morphology: string;

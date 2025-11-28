@@ -1,5 +1,5 @@
 {
-  "name": "Bharat BreedBot",
-  "description": "An expert AI assistant for Indian Cattle and Buffalo breeds, powered by Gemini and user-provided documentation.",
+  "name": "Petaura",
+  "description": "Petaura: An expert AI assistant for Cattle, Buffalo, Dog, and Cat breeds, powered by Gemini and enterprise knowledge base.",
   "requestFramePermissions": []
 }
